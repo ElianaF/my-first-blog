@@ -25,7 +25,7 @@ SECRET_KEY = 'gxdiu0%@99g3udb(cfwiq&$&s5m!xu-yk4ykhl&++t-&(kul$o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-AALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
